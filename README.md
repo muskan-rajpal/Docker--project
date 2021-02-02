@@ -1,2 +1,2 @@
-# SMS
-Student Management System Project in PHP using BOOTSTRAP
+# Docker Project
+Student Management System Project deployed on Docker and Docker Hub.
